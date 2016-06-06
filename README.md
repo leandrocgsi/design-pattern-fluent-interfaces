@@ -1,6 +1,6 @@
 # Design Pattern Fluent Interfaces
 
-This repo is regarding to my presentation about this design pattern in ilegra.
+This repo is regarding to my lightining talk about this design pattern in ilegra.
 
 
 # How to get this project
