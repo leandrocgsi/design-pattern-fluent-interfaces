@@ -1,6 +1,6 @@
 # Design Pattern Fluent Interfaces
 
-This repo is regarding to my lightining talk about this design pattern in ilegra.
+This repo is regarding to my lightining talk about this design pattern in [ilegra](http://ilegra.com/).
 
 
 # How to get this project
@@ -10,4 +10,3 @@ You can execute following command or as you prefer [download zip here](https://g
 ```sh
 git clone https://github.com/leandrocgsi/design-pattern-fluent-interfaces.git
 ```
-
